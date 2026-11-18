@@ -1,0 +1,18 @@
+# NOTICE
+
+This repository is a security-hardened derivative of:
+
+- **SurfCore** — https://github.com/Mieksido/surfcore
+- Copyright (c) 2026 Derpyu520 and qq-bridge / QSH contributors
+- Licensed under the MIT License (see [`LICENSE`](LICENSE)).
+
+The upstream source is used and redistributed under the terms of the MIT License.
+The security-hardening modifications in this repository are documented in
+[`SECURITY-HARDENING.md`](SECURITY-HARDENING.md).
+
+This derivative is maintained by `a1531307144-cell`:
+https://github.com/a1531307144-cell/surfcore
+
+The original MIT copyright notice and permission notice are retained in
+[`LICENSE`](LICENSE) and must remain in copies or substantial portions of the
+software.
